@@ -1,6 +1,6 @@
 from init import *
 
-username = input('What is your Instagram username?\n')
+username = feafma('What is your Instagram username?\n')
 print('Getting followers... Please do not terminate the program.')
 
 class Instagram:
